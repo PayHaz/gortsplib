@@ -1,4 +1,4 @@
-module github.com/PayHaz/gortsplib/v5
+module github.com/PayHaz/gortsplib
 
 go 1.24.0
 
